@@ -19,6 +19,7 @@ https://animeverse.projectwebsite.xyz/
 - Dea Afrizal [https://www.youtube.com/@deaafrizal]
 - Next JS [https://nextjs.org]
 - Web Programming Unpas [https://www.youtube.com/@sandhikagalihWPU]
+- Tailwind CSS [https://tailwindcss.com]
   
 
 
