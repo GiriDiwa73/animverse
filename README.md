@@ -13,6 +13,12 @@ Untuk Memaximalkan Tampilan Saya Menggunakan Bantuan :
 
 ## Demo & Lain-lain
 https://animeverse.projectwebsite.xyz/
+
+# Special Thanks To :
+- Jikan API [https://jikan.moe/]
+- Dea Afrizal [https://www.youtube.com/@deaafrizal]
+- Next JS [https://nextjs.org]
+- Web Programming Unpas [https://www.youtube.com/@sandhikagalihWPU]
   
 
 
